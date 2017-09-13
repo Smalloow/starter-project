@@ -25,4 +25,5 @@ function f3() {
 
 function f4() {
 	//some stuff in here
+	alert("I'm doing really good things in here")
 }
