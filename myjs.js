@@ -16,7 +16,6 @@ function f1() {
 
 function f2() {
 	//some stuff in here
-	alert("I'm a nefarious virus")
 }
 
 function f3() {
