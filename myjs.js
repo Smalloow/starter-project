@@ -16,7 +16,6 @@ function f1() {
 
 function f2() {
 	//some stuff in here
-	alert("I'm a semi-decent commit that may need to be kept or added later?")
 }
 
 function f3() {
