@@ -21,6 +21,7 @@ function f2() {
 
 function f3() {
 	//some stuff in here
+	alert("I'm doing better things than the one above, so remove him")
 }
 
 function f4() {
